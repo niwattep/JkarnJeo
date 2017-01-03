@@ -1,0 +1,28 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #AC4C5E;
+    font-weight: 300;
+}
+
+.title-logo {
+    margin-top: 10px;
+}
+
+.logo-big {
+    max-height: 400px;
+    max-width: 400px;
+}
+
+.scshot-big {
+    max-height: 400px;
+    max-width: 400px;
+}
+
+.description {
+    color: #5C476F;
+    font-size: 18px;
+}
+
+.text-thin {
+    font-weight: 100;
+}
